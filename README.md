@@ -1,3 +1,4 @@
+![logo laravel](laravel_icon.png)  ![logo docker](docker_icon.png)
 # example-app
 laravel 8, docker , boilerplate
 #### Windows10 Home, local (docker desktop installed) : Laravel from docker with docker-compose (not sail),  
