@@ -1,5 +1,5 @@
 ![logo laravel](laravel_icon.png)  ![logo docker](docker_icon.png)
-# example-app : branche Master
+# example-app : in master branch 
 laravel 8, docker , boilerplate
 #### Windows10 Home, local (docker desktop installed) : Laravel from docker with docker-compose (not sail),  
 Ubuntu 20.04, maria-db, memcached, mailhog, volumes bridged
